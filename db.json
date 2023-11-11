@@ -1,0 +1,160 @@
+{
+    "Pokemons": [
+        {
+            "id": 1,
+            "name": "Bulbasaur",
+            "Type 1": "Grass",
+            "Type 2": "Poison",
+            "Japanese Name": "フシギダネ Fushigidane",
+            "Species": "Seed Pokémon",
+            "Ablilities": "Overgrow",
+            "Evolution": "Bulbasaur evolves into Ivysaur starting at level 16, and into Venusaur at level 32.",
+            "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/03/001.png",
+            "Evolutionary line": [
+                "https://static.wikia.nocookie.net/pokemon/images/0/03/001.png",
+                "https://static.wikia.nocookie.net/pokemon/images/b/b0/002.png",
+                "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png",
+                "https://static.wikia.nocookie.net/pokemon/images/1/14/003M.png"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ivysaur",
+            "Type 1": "Grass",
+            "Type 2": "Poison",
+            "Japanese Name": "フシギソウ Fushigisou",
+            "Species": "Seed Pokémon",
+            "Ablilities": "Overgrow",
+            "Evolution": "Ivysaur evolves from Bulbasaur at level 16, and into Venusaur at level 32.",
+            "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b0/002.png",
+            "Evolutionary line": [
+                "https://static.wikia.nocookie.net/pokemon/images/0/03/001.png",
+                "https://static.wikia.nocookie.net/pokemon/images/b/b0/002.png",
+                "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png",
+                "https://static.wikia.nocookie.net/pokemon/images/1/14/003M.png"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Venusaur",
+            "Type 1": "Grass",
+            "Type 2": "Poison",
+            "Japanese Name": "フシギバナ Fushigibana",
+            "Species": "Seed Pokémon",
+            "Ablilities": "Overgrow",
+            "Evolution": "Venusaur evolves from Ivysaur at level 32. It can mega evolve into Mega Venusaur using the Venusaurite.",
+            "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png",
+            "Evolutionary line": [
+                "https://static.wikia.nocookie.net/pokemon/images/0/03/001.png",
+                "https://static.wikia.nocookie.net/pokemon/images/b/b0/002.png",
+                "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png",
+                "https://static.wikia.nocookie.net/pokemon/images/1/14/003M.png"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Charmander",
+            "Type 1": "Fire",
+            "Type 2": null,
+            "Japanese Name": "ヒトカゲ Hitokage",
+            "Species": "Lizard Pokémon",
+            "Ablilities": "Blaze",
+            "Evolution": "It evolves into Charmeleon starting at level 16, which evolves into Charizard starting at level 36.",
+            "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/d5/004.png",
+            "Evolutionary line": [
+                "https://static.wikia.nocookie.net/pokemon/images/d/d5/004.png",
+                "https://static.wikia.nocookie.net/pokemon/images/2/20/005.png",
+                "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png",
+                "https://static.wikia.nocookie.net/pokemon/images/e/e8/006M.png",
+                "https://static.wikia.nocookie.net/pokemon/images/7/7e/006M2.png"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Charmeleon",
+            "Type 1": "Fire",
+            "Type 2": null,
+            "Japanese Name": "リザード Lizardo",
+            "Species": "Flame Pokémon",
+            "Ablilities": "Blaze",
+            "Evolution": "Charmeleon evolves from Charmander at level 16, and evolves into Charizard in level 36.",
+            "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/20/005.png",
+            "Evolutionary line": [
+                "https://static.wikia.nocookie.net/pokemon/images/d/d5/004.png",
+                "https://static.wikia.nocookie.net/pokemon/images/2/20/005.png",
+                "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png",
+                "https://static.wikia.nocookie.net/pokemon/images/e/e8/006M.png",
+                "https://static.wikia.nocookie.net/pokemon/images/7/7e/006M2.png"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Charizard",
+            "Type 1": "Fire",
+            "Type 2": "Flying",
+            "Japanese Name": "リザードン Lizardon",
+            "Species": "Flame Pokémon",
+            "Ablilities": "Blaze",
+            "Evolution": "Charizard evolves from Charmeleon starting at level 36. It is the final form of Charmander. It can Mega Evolve into either Mega Charizard X, using the Charizardite X or Mega Charizard Y, using the Charizardite Y.",
+            "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png",
+            "Evolutionary line": [
+                "https://static.wikia.nocookie.net/pokemon/images/d/d5/004.png",
+                "https://static.wikia.nocookie.net/pokemon/images/2/20/005.png",
+                "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png",
+                "https://static.wikia.nocookie.net/pokemon/images/e/e8/006M.png",
+                "https://static.wikia.nocookie.net/pokemon/images/7/7e/006M2.png"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Squirtle",
+            "Type 1": "Water",
+            "Type 2": null,
+            "Japanese Name": "ゼニガメ Zenigame",
+            "Species": "Tiny Turtle Pokémon",
+            "Ablilities": "Torrent",
+            "Evolution": "It evolves into Wartortle starting at level 16, and evolves into Blastoise starting at level 36.",
+            "image_url": "https://static.wikia.nocookie.net/pokemon/images/e/e8/007.png",
+            "Evolutionary line": [
+                "https://static.wikia.nocookie.net/pokemon/images/e/e8/007.png",
+                "https://static.wikia.nocookie.net/pokemon/images/1/17/008.png",
+                "https://static.wikia.nocookie.net/pokemon/images/d/d2/009.png",
+                "https://static.wikia.nocookie.net/pokemon/images/e/e7/009M.png"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Wartortle",
+            "Type 1": "Water",
+            "Type 2": null,
+            "Japanese Name": "カメール Kameil",
+            "Species": "Turtle Pokémon",
+            "Ablilities": "Torrent",
+            "Evolution": "Wartortle evolves from Squirtle starting at level 16, and evolves into Blastoise starting at level 36.",
+            "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/17/008.png",
+            "Evolutionary line": [
+                "https://static.wikia.nocookie.net/pokemon/images/e/e8/007.png",
+                "https://static.wikia.nocookie.net/pokemon/images/1/17/008.png",
+                "https://static.wikia.nocookie.net/pokemon/images/d/d2/009.png",
+                "https://static.wikia.nocookie.net/pokemon/images/e/e7/009M.png"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Blastoise",
+            "Type 1": "Water",
+            "Type 2": null,
+            "Japanese Name": "カメックス Kamex",
+            "Species": "Shellfish Pokémon",
+            "Ablilities": "Torrent",
+            "Evolution": "Blastoise evolves from Wartortle starting at level 36. Blastoise can further evolve into Mega Blastoise using the Blastoisinite.",
+            "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/d2/009.png",
+            "Evolutionary line": [
+                "https://static.wikia.nocookie.net/pokemon/images/e/e8/007.png",
+                "https://static.wikia.nocookie.net/pokemon/images/1/17/008.png",
+                "https://static.wikia.nocookie.net/pokemon/images/d/d2/009.png",
+                "https://static.wikia.nocookie.net/pokemon/images/e/e7/009M.png"
+            ]
+        }
+    ]
+}
